@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <router-link to="/">我是link</router-link>
-  </div>
+  <div>厉害</div>
 </template>
 
 <script>
