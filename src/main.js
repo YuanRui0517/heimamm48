@@ -6,6 +6,8 @@ import App from './App.vue'
 import router from './router';
 //导入 element ui
 import Element from 'element-ui';
+//导入全局样式
+import './style/index.css';
 //导入 element ui的样式
 import 'element-ui/lib/theme-chalk/index.css';
 //使用element

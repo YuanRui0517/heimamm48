@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <router-link to="/">我是link</router-link>
+  <div class="app">
+    <router-view></router-view>
   </div>
 </template>
 
